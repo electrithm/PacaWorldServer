@@ -1,0 +1,5 @@
+<settings>
+<settings value="3737" type="port"/> <!--server port-->
+<settings value="yellow" type="backgroundColor"/> <!--background color-->
+<settings value="blue" type="foregroundColor"/> <!--text color-->
+</settings>
