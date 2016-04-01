@@ -1,5 +1,6 @@
 <settings>
-<settings value="3737" type="port"/> <!--server port-->
 <settings value="yellow" type="backgroundColor"/> <!--background color-->
 <settings value="blue" type="foregroundColor"/> <!--text color-->
+<settings value="3737" type="serverPort"/> <!--server port-->
+<settings value="16" type="clientAmount"/> <!--maximum amount of connections-->
 </settings>
