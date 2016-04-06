@@ -13,7 +13,7 @@ I know I don't exactly write the cleanest code, but I don't want people to write
 
 To keep things simple, I have a list of features that I want to be added to the software. If you have an idea but it isn't on the list, ask me if it can be added to the list.
 
-#LIST OF FEATURES
+#LIST OF FEATURES TO BE ADDED
 
 *Allow PacaWorld clients to connect to the server
 
